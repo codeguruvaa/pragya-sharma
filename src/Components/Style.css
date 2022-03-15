@@ -1,0 +1,15 @@
+header{
+    background-color: gray;
+    width: 980px;
+    color: black;
+    padding: 20px;
+    
+}
+
+.slider{
+    width: 980px;
+    height: 250px;
+    background-color: orange;
+
+    padding: 20px;
+}
